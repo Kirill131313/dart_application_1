@@ -23,4 +23,7 @@ void main(List<String> arguments) {
   if (5 != 5) {
     print('hello');
   }
+
+  var c = 18, d = 50;
+  print('${c * d}');
 }
